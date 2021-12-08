@@ -1,4 +1,0 @@
----
-title: BrikMentionのコードサーバー
-layout: top
----
