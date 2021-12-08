@@ -1,5 +1,6 @@
 theme: jekyll-theme-midnight
 name: BrikMentionのコードサーバー
+title: BrikMentionのコードサーバー
 url: https://brikmention.github.io/BrikMention-CodeStorage/
 liquid:
   error_mode        : warn
