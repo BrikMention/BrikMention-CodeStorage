@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "giko2";
+  src: url(https://brikmention.github.io/BrikMention-CodeStorage/giko.ttf) format(truetype),
+    url(https://brikmention.github.io/BrikMention-CodeStorage/giko.woff) format(woff);
+  font-display: swap;
+}
+
+* {
+  font-family: "giko2" !impostant;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, span, html, button, a, div, header, footer, section, main, aside, article, code, pre, label, data, nav, textarea {
+  font-family: "giko2" !impostant;
+}
