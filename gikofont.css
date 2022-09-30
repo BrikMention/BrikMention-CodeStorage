@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "giko2";
+  src: url(https://brikmention.github.io/BrikMention-CodeStorage/giko.ttf) format(truetype),
+    url(https://brikmention.github.io/BrikMention-CodeStorage/giko.woff) format(woff);
+  font-display: swap;
+}
